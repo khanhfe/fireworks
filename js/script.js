@@ -2098,7 +2098,7 @@ const Spark = {
 
 
 const soundManager = {
-	baseURL: 'https://github.com/khanhfe/audio-fireworks/blob/master/',
+	baseURL: 'https://github.com/khanhfe/fireworks/tree/master/audio',
 	ctx: new (window.AudioContext || window.webkitAudioContext),
 	sources: {
 		lift: {
